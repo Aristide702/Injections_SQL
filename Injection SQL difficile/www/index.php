@@ -14,3 +14,6 @@ if (!isset($_GET["a"]))
 $module = "Ctr_" . $_GET["m"];
 new $module($_GET["a"]);
 ?>
+<html>
+	<!-- To do : Modifier la table utilisateur -->
+</html>

@@ -1,1 +1,1 @@
-Framework-GUINOT&copy;<?=date("Y")?>
+CESAR &copy; <?=date("Y")?>

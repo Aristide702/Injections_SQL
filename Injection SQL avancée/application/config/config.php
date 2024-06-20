@@ -1,7 +1,6 @@
 <?php
 /********************************************************/
-/**	config.php est inclus sur toutes les pages du site **/
-/********************************************************/
+/**	config.php est inclus sur toutes le/********************************************************/
 session_start();
 //Pour afficher les jours et mois en français
 setlocale(LC_TIME, 'fr-FR.UTF8', 'fra');
@@ -11,7 +10,7 @@ date_default_timezone_set('Europe/Paris');
 /********************************************************/
 /** Les constantes                                     **/
 /********************************************************/
-define("SITE_NOM", "Injection SQL");
+define("SITE_NOM", "Faut trouver un nom");
 define("DB_SERVER", "localhost");
 define("DB_PORT", "3306");
 define("DB_USER", "root");

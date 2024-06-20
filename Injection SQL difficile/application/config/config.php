@@ -12,7 +12,7 @@ date_default_timezone_set('Europe/Paris');
 /********************************************************/
 /** Les constantes                                     **/
 /********************************************************/
-define("SITE_NOM", "Injection SQL");
+define("SITE_NOM", "Restaurant Lavoisier");
 define("DB_SERVER", "localhost");
 define("DB_PORT", "3306");
 define("DB_USER", "root");
